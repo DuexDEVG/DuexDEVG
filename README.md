@@ -1,14 +1,16 @@
 # Duex
 
-Systems and backend developer.
+I mostly write Rust and C.
 
-Primarily working with Windows internals, native software, backend services and low-level tooling.
+Windows internals, native software, backend systems, networking, IPC, process management.
 
-**Languages:** Rust, C, TypeScript, SQL
+TypeScript exists when I need it.
+SQL exists because data has to live somewhere.
 
-**Mostly working with:**
-- Windows APIs and internals
-- Process management and IPC
-- Networking and backend infrastructure
-- Native applications
-- Performance-sensitive systems
+I prefer knowing what the system is doing instead of trusting another abstraction layer to guess for me.
+
+No tech-stack wall.
+No motivational quotes.
+No "passionate developer" paragraph.
+
+Just code.
