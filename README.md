@@ -18,6 +18,13 @@ Web isn't really my thing.
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 
+### Mostly
+
+![Windows Internals](https://img.shields.io/badge/Windows_Internals-111111?style=flat-square)
+![Systems Programming](https://img.shields.io/badge/Systems_Programming-111111?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-111111?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-111111?style=flat-square)
+
 <br>
 
 <p align="center">
